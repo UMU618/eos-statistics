@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "commander": "^2.20.0",
+    "eosjs": "^20.0.0",
+    "moment": "^2.24.0",
+    "node-fetch": "^2.3.0"
+  }
+}
